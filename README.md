@@ -7,5 +7,5 @@ LABDESK is a laboratory information management system (LIMS) developed with Micr
 # Documentation
 You will find an extensive documentation on our homepage at: www.labdesk.net/documentation
 
-# Licence
+# Software Licence Terms
 You can find more information about the license model here: www.labdesk.net/licence
