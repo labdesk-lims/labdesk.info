@@ -12,5 +12,10 @@ You will find an extensive documentation on our homepage at: www.labdesk.net/doc
 
 **Roll-Out:** [labdesk-roll_out.pdf](https://github.com/labdesk-lims/labdesk.info/files/9316839/labdesk-roll_out.pdf)
 
+# Regulatory Aspects
+Modern labs have to fullfill numerous regulatory requirements, LABDESK already fullfills the most common ones. Consult the Microsoft Excel file attached to find an extensive summary of the most relevant specifications.
+
+**Specification:** [LABDESK_ SPEC_acc_ASTM E1578_v1.0.0.xlsx](https://github.com/labdesk-lims/labdesk.info/files/9316887/LABDESK_.SPEC_acc_ASTM.E1578_v1.0.0.xlsx)
+
 # Software Licence Terms
 You can find more information about the software licence terms here: www.labdesk.net/licence
