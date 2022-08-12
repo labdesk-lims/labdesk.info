@@ -2,7 +2,7 @@
 
 
 # Introduction
-LABDESK is a laboratory information management system (LIMS) developed with Micrsoft Access 365 and a Microsoft SQL Server 2019 backend.
+LABDESK is a laboratory information management system (LIMS) developed with Microsoft Access 365 and a Microsoft SQL Server 2019 backend.
 
 # Documentation
 You will find an extensive documentation on our homepage at: www.labdesk.net
