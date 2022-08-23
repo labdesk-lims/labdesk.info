@@ -2,7 +2,7 @@
 
 
 # Introduction
-LABDESK is a **L**aboratory **I**nformation **M**anagement **S**ystem (LIMS) developed with Microsoft Access 365 and Microsoft SQL Server 2019 as backend. Download LABDESK from our homepage or GitHub and use it free of charge for testing and training purposes. Commercial licences are available upon request.
+LABDESK is a **L**aboratory **I**nformation **M**anagement **S**ystem (**LIMS**) developed for Microsoft Office 365 and Microsoft SQL Server 2019. Download LABDESK from our homepage or GitHub and use it free of charge for testing and training purposes. Commercial licences are available upon request.
 
 # Promotional Material
 **Flyer:** [labdesk-flyer.pdf](https://github.com/labdesk-lims/labdesk.info/files/9316841/labdesk-flyer.pdf)
